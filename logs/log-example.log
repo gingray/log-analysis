@@ -1,0 +1,3 @@
+{"evt_type":"EvtClass","status":"info","time":"2019-05-10T08:00:02+0000","payload":{"time_elapsed_human":"00:00:00.323","time_elapsed":0.323117733001709},"trace_id":"9d35ca3a-b52f-462d-b5f1-f55ccc781e5e"}
+{"evt_type":"EvtClass2","status":"info","time":"2019-05-10T08:00:04+0000","payload":{"time_elapsed_human":"00:00:02.270","time_elapsed":2.2709996700286865},"trace_id":"9d35ca3a-b52f-462d-b5f1-f55ccc781e5e"}
+{"evt_type":"EvtClass3","status":"info","time":"2019-05-10T08:00:05+0000","payload":{"time_elapsed_human":"00:00:00.188","time_elapsed":0.18899035453796387},"trace_id":"9d35ca3a-b52f-462d-b5f1-f55ccc781e5e"}
